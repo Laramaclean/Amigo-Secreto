@@ -9,16 +9,16 @@ Este es un juego en el cual se realiza un listado de nombres y, al apretar el bo
 
 2)- Presiona el botón "Sortear amigo".
 
-3)- La aplicación asignará aleatoriamente un amigo secreto a cada persona.
+3)- La aplicación elegirá aleatoriamente un nombre.
 
 ¡Diviértete descubriendo quién es tu amigo secreto!
 
 # 📸 Capturas de pantalla  
 Pantalla principal:  
-![Pantalla principal](images/Home.jpeg)  
+![Pantalla principal](Images/Home.jpeg)  
 
 Resultado del sorteo:  
-![Resultado del sorteo](images/Resultado.jpeg)  
+![Resultado del sorteo](Images/Resultado.jpeg)  
 
 # 🎥 Video de demostración  
-🔗 [Mira el video aquí](https://youtu.be/BNNYcgrQPng)  
+🔗 [Mira el video aquí](https://youtu.be/MjY17z-aPI4)  

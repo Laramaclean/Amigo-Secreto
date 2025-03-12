@@ -14,10 +14,10 @@ Este es un juego en el cual se realiza un listado de nombres y, al apretar el bo
 ¡Diviértete descubriendo quién es tu amigo secreto!
 
 # 📸 Capturas de pantalla  
-Pantalla principal:  
+✨Pantalla principal:  
 ![Pantalla principal](Images/Home.jpeg)  
 
-Resultado del sorteo:  
+✨Resultado del sorteo:  
 ![Resultado del sorteo](Images/Resultado.jpeg)  
 
 # 🎥 Video de demostración  
